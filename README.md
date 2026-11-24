@@ -10,7 +10,7 @@ Predicts which customers will subscribe to a term deposit after a phone call, so
 ## Files in this repository
 | File | Description |
 |---|---|
-| Portuguese_Bank_Term_Deposit_Prediction.ipynb | Full analysis: data overview, wrangling, 14 charts, 4 hypothesis tests, feature engineering, 5 models, model comparison, feature importance, suggestions, conclusion and challenges report |
+| Portuguese_Bank_Term_Deposit_Prediction (4).ipynb | Full analysis: data overview, wrangling, 14 charts, 4 hypothesis tests, feature engineering, 5 models, model comparison, feature importance, suggestions, conclusion and challenges report |
 | bank-additional-full.csv | Dataset (semicolon separated) |
 | best_model_random_forest.pkl | Saved final model with its scaler and column order |
 | requirements.txt | Python packages |
